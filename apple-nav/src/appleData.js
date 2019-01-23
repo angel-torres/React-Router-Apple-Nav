@@ -3,9 +3,12 @@
 const appleData = [
     {
       id: 1,
-      name: '',
-      subnav: [
-      ]
+      name: 'Apple',
+      subnav: [{
+          name: 'Apple',
+            id: 'apple',
+            img:'https://www.apple.com/v/mac/home/ae/images/familybrowser/macbook__fjd32xo0xwmm_large.svg'
+        }]
     }, 
     {
         id: 2,
